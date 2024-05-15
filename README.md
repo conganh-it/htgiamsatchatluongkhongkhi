@@ -71,6 +71,5 @@
 
 ---
 
-Với các mô tả chi tiết trên, các phần của dự án sẽ được triển khai một cách logic và nhất quán. Nếu bạn cần thêm thông tin hoặc có bất kỳ câu hỏi nào, hãy cho tôi biết!
-  
+
 ![alt](file:///C:/Users/chinh/Downloads/1.png)
