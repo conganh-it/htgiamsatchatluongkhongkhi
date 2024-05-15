@@ -72,6 +72,7 @@
 ---
 
 
-![Alt text](./images/1.png)
+![1.png](https://i.postimg.cc/9Fg5qFWW/1.png)
+
 
 
