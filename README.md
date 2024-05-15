@@ -72,5 +72,6 @@
 ---
 
 
-![Sơ đồ tổng quát hệ thống](C:/Users/chinh/Downloads/1.png)
+![Alt text](./images/1.png)
+
 
