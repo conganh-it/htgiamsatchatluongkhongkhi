@@ -18,4 +18,5 @@
 - Python + FastAPI: Viết API để nhận và xử lý dữ liệu từ API web, và lưu dữ liệu vào MySQL.
 - Node-RED: Thiết lập luồng để tự động gọi API FastAPI và lưu dữ liệu vào MySQL.
 - Web Application: Xây dựng giao diện web để hiển thị dữ liệu chất lượng không khí bằng biểu đồ và bảng.
+  
 ![alt](file:///C:/Users/chinh/Downloads/1.png)
