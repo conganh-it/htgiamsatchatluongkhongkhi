@@ -11,7 +11,8 @@
 
 # Thông Tin Dự Án
 
-- **Tên dự án:** Hệ Thống Giám Sát Chất Lượng Không Khí
+- **Tên dự án:**
+ ** Hệ Thống Giám Sát Chất Lượng Không Khí **
 
 ## Yêu Cầu/Chức Năng Của Project
 1. Thu thập dữ liệu chất lượng không khí (PM2.5, CO2) từ api.
