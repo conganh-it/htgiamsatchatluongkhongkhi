@@ -13,4 +13,8 @@
 - Tự động thu thập và xử lý dữ liệu với Node-RED.
 - Xây dựng giao diện web để hiển thị dữ liệu dưới dạng biểu đồ và bảng.
 
-#
+#Công nghệ sự dụng
+- Cơ sở dữ liệu MySQL: Tạo các bảng Sensors và Readings, và stored procedure SP_AddReading.
+- Python + FastAPI: Viết API để nhận và xử lý dữ liệu từ API web, và lưu dữ liệu vào MySQL.
+- Node-RED: Thiết lập luồng để tự động gọi API FastAPI và lưu dữ liệu vào MySQL.
+- Web Application: Xây dựng giao diện web để hiển thị dữ liệu chất lượng không khí bằng biểu đồ và bảng.
