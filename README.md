@@ -72,4 +72,5 @@
 ---
 
 
-![](C:/Users/chinh/Downloads/1.png)
+![Sơ đồ tổng quát hệ thống](C:/Users/chinh/Downloads/1.png)
+
