@@ -12,3 +12,5 @@
 - Tạo API để truy xuất dữ liệu thông qua FastAPI.
 - Tự động thu thập và xử lý dữ liệu với Node-RED.
 - Xây dựng giao diện web để hiển thị dữ liệu dưới dạng biểu đồ và bảng.
+
+#
