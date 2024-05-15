@@ -72,4 +72,4 @@
 ---
 
 
-![alt](file:///C:/Users/chinh/Downloads/1.png)
+![](C:/Users/chinh/Downloads/1.png)
